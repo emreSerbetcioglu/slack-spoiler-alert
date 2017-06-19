@@ -1,0 +1,6 @@
+{
+  "name": "Slack Spoiler Alert App",
+  "description": "Slack Spoiler Alert App",
+  "repository": "https://github.com/emreSerbetcioglu/slack-spoiler-alert",
+  "keywords": ["slack", "app", "slash command"]
+}
